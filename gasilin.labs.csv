@@ -1,0 +1,571 @@
+id;foreststeppe;country;locality;N;E; ультурологическа€ периодика;јрхеологическое датирование;ћиграции;Economy;time.low;time.up;period;ѕор€док периодов;holocene;variable;n.species;n.bones
+1;Pannonskaia;Hungaria;Tiszaszollos-Csakanyszeg;48,023;21,025;;;;1;7000;7000;AT1;1;middle;numeric;1;1
+2;Pannonskaia;Hungaria;Roszke-Ludvar;46,186;20,034;;;;1;8000;7000;AT1;1;middle;numeric;4;508
+3;Pannonskaia;Hungaria;Gyalaret;46,207;20,106;;;;1;8000;7000;AT1;1;middle;numeric;4;74
+4;Pannonskaia;Hungaria;Ecsegfalva 23;47,15;20,92;n1;;;1;8000;7300;AT1;1;middle;numeric;4;287
+5;Pannonskaia;Hungaria;Kiskore;47,501;20,492;;;;1;7000;6000;AT1-2;2;middle;numeric;3;23
+6;Pannonskaia;Hungaria;Devavanya-Sarto;47,067;20,861;;;;1;7000;6000;AT1-2;2;middle;numeric;4;50
+7;Pannonskaia;Hungaria;Tiszaluc-Valyogos;48,063;21,084;;;;1;7000;6000;AT1-2;2;middle;numeric;4;9
+8;Pannonskaia;Hungaria;Polgar-Csoszhalom;47,867;21,117;n2;;;1;7300;6500;AT1-2;2;middle;numeric;4;1635
+9;Pannonskaia;Hungaria;Bekasmegyer-Voros Csillag TSz;47,461;19,031;n;;;1;8000;6500;AT1-2;2;middle;numeric;3;33
+10;Pannonskaia;Hungaria;Bekasmegyer;47,595;19,052;n;;;1;8000;6500;AT1-2;2;middle;numeric;3;9
+11;Pannonskaia;Hungaria;Jaszbereny-Cserohalom;47,41;19,914;n;;;1;8000;6500;AT1-2;2;middle;numeric;2;2
+12;Pannonskaia;Hungaria;Tiszavasvari-Keresztfal;48;20,686;n;;;1;8000;6500;AT1-2;2;middle;numeric;2;3
+13;Pannonskaia;Hungaria;Aszod-Papi foldek;47,659;19,461;e`1;;;1;6500;5300;AT2-3;4;middle;numeric;4;1108
+14;Pannonskaia;Hungaria;Kenderes-Kulis;47,277;20,649;e`1;;;1;6500;5300;AT2-3;4;middle;numeric;3;18
+15;Pannonskaia;Hungaria;Kenderes-Telekhalom;47,3;20,7;e`1;;;1;6500;5300;AT2-3;4;middle;numeric;3;13
+16;Pannonskaia;Hungaria;Aszod-Gepallomas;47,659;19,461;b1;;;1;5000;4500;AT3;5;middle;numeric;1;2
+17;Pannonskaia;Hungaria;Albertirsa-Kostyelik P. udvara;47,254;19,674;b1;;;1;5000;4500;AT3;5;middle;numeric;1;1
+18;Pannonskaia;Hungaria;Congrad-Petofi TSz homokgodre;46,777;20,0263;;;;1;5000;4500;AT3;5;middle;numeric;3;7
+19;Pannonskaia;Hungaria;Nagyrev;46,943;20,14;b1;;;1;5000;4500;AT3;5;middle;numeric;2;6
+20;Pannonskaia;Hungaria;Balatonoszod-Temetoi dulo;46,81;17,81;e`2;;;1;5300;4650;AT3;5;middle;numeric;3;6
+21;Pannonskaia;Hungaria;Bekasmegyer-Buvati;47,461;19,031;e`2;;;1;5300;4650;AT3;5;middle;numeric;2;8
+22;Pannonskaia;Hungaria;Tiszaszollos-Csakanyszeg;48,023;21,025;;;;1;5600;4800;AT3;5;middle;numeric;3;14
+23;Pannonskaia;Hungaria;Sz?zhalombatta-F?ldv?r;47,314;18,906;;;;1;5000;4000;AT3-SB1;7;middle;numeric;3;28
+24;Pannonskaia;Hungaria;Mezolak;47,329;17,371;;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;2;9
+25;Pannonskaia;Hungaria;Borsosgyor-Teglagyari agyagbanya;47,315;17,433;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;1;2
+26;Pannonskaia;Hungaria;Mezokomarom-Alsohegy;46,464;18,7;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;3;147
+27;Pannonskaia;Hungaria;Bekasmegyer-Buvati;47,461;19,031;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;3;22
+28;Pannonskaia;Hungaria;Tarnazsadany-Sandorresze;47,671;20,148;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;3;4
+29;Pannonskaia;Hungaria;Kengyel;47,092;20,343;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;1;3
+30;Pannonskaia;Hungaria;Hodmezovasarhely-Gorzsa-Kovacstanya (Kovacs Farmstead);46,371;20,432;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;2;3
+31;Pannonskaia;Hungaria;Szihalom;47,778;20,478;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;2;44
+32;Pannonskaia;Hungaria;Tiszafured-Asotthalom;46,621;20,619;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;3;49
+33;Pannonskaia;Hungaria;Mezocsat-Pastidome;47,822;20,903;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;2;4
+34;Pannonskaia;Hungaria;Tiszaszollos-Csakanyszeg;48,023;21,025;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;1;1
+35;Pannonskaia;Hungaria;Bekes-Varoserdo;46,7185;21,2355;b;;;1-2;5000;3000;AT3-SB2;8;middle;numeric;4;1501
+36;Pannonskaia;Hungaria;Aba-Barand;47,018;18,548;e`2;;;1;4300;4150;SB1;9;middle;numeric;2;6
+37;Pannonskaia;Hungaria;Budapest-XI;47,618;19,04;e`2;;;1;4300;4150;SB1;9;middle;numeric;1;34
+38;Pannonskaia;Hungaria;Csepel-Haros;47,404;19,083;;;;1;4800;3900;SB1;9;middle;numeric;3;224
+39;Pannonskaia;Hungaria;Jaszdozsa;47,57;20,022;;;;2;3950;3700;SB2;11;middle;numeric;4;13
+40;Pannonskaia;Hungaria;Tiszaluc-Dankadomb;48,036;21,063;;;;2;3950;3700;SB2;11;middle;numeric;4;425
+41;Pannonskaia;Hungaria;Jaszfelsoszentgyorgy-Turoczi tanya (Farmstead);47,507;19,802;;;;2;2600;2500;SB3;13;middle;numeric;3;3
+42;Pannonskaia;Hungaria;Koronczo-Babota;47,51;17,534;;;;2;2900;2400;SB3;13;middle;numeric;2;3
+43;Pannonskaia;Hungaria;Koronczo-Toszer-dulo (Baulk);47,596;17,537;;;;2;2900;2400;SB3;13;middle;numeric;1;1
+44;Pannonskaia;Hungaria;Veszprem-Jozsef Attila utca (Street) 70;47,085;17,899;;;;2;2900;2400;SB3;13;middle;numeric;2;3
+45;Pannonskaia;Hungaria;Budapest-XI;47,618;19,04;;;;2;2900;2400;SB3;13;middle;numeric;4;12
+46;Pannonskaia;Hungaria;Lengyer;47,038;19,781;;;;2;2900;2400;SB3;13;middle;numeric;3;6
+47;Pannonskaia;Hungaria;Felsotarkany-Varhegy;47,963;20,408;;;;2;2900;2400;SB3;13;middle;numeric;4;239
+48;Pannonskaia;Hungaria;Orvenyes-Hosszuretek-Dulo (Baulk);46,917;17,819;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;1;1
+49;Pannonskaia;Hungaria;Kadarta;47,12;17,953;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;1;1
+50;Pannonskaia;Hungaria;Tac-Fovenypuszta;47,097;18,415;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;4;121
+51;Pannonskaia;Hungaria;Tarnok;47,367;18,86;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;1;1
+52;Pannonskaia;Hungaria;Szazhalombatta-Dunafured;47,312;18,923;;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;1;1
+53;Pannonskaia;Hungaria;Nagyteteny;47,396;18,979;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;3;18
+54;Pannonskaia;Hungaria;Budapest-Albertfalva;47,618;19,04;rb;;;2;3500;2100;SB2-SA1;17;middle-late;numeric;3;42
+55;Pannonskaia;Hungaria;Bekasmegyer-Buvati;47,461;19,031;;;;2;2400;2100;SA1;21;late;numeric;1;1
+56;Pannonskaia;Hungaria;Csepel-Haros;47,404;19,083;;;;2;2400;2100;SA1;21;late;numeric;3;14
+57;Pannonskaia;Hungaria;Jaszfelsoszentgyorgy;47,53;19,79;r;;;2;2500;2200;SA1;21;late;numeric;3;3
+58;Pannonskaia;Hungaria;Budakalasz;47,618;19,04;;;;2;2000;1500;SA1-2;22;late;numeric;2;14
+59;Pannonskaia;Hungaria;Csatalja-Vagotthegy;46,03;18,95;s2;;;2;1000;700;SA2;23;late;numeric;2;2
+60;Pannonskaia;Hungaria;Obuda-Piac;47,54;19,05;s2;;;2;1000;700;SA2;23;late;numeric;2;13
+61;Pannonskaia;Hungaria;Csongrad-Felgyo;46,66;20,11;s2;;;2;1000;700;SA2;23;late;numeric;1;1
+62;Pannonskaia;Hungaria;Kardoskut-Hatablak;46,45;20,63;s2;;;2;1000;700;SA2;23;late;numeric;2;4
+63;Pannonskaia;Hungaria;Tiszavasvari-Paptelekhat;47,958;21,3567;;;;2;1000;700;SA2;23;late;numeric;1;2
+64;Pannonskaia;Hungaria;Tiszalok-Razom;48,018;21,377;;;;2;1000;700;SA2;23;late;numeric;3;48
+65;Pannonskaia;Hungaria;Tiszalok-Razom;48,16;21,38;s2;;;2;1000;700;SA2;23;late;numeric;3;48
+66;Pannonskaia;Hungaria;Papa-Hantai ut;47,31;17,45;s2;;;2;1100;900;SA2;23;late;numeric;1;2
+67;Pannonskaia;Hungaria;Saly-Lator;47,95;20,66;s2;;;2;1100;1000;SA2;23;late;numeric;3;24
+68;Pannonskaia;Hungaria;Csatalja-Vagotthegy;46,03;18,921;;;;2;1111;699;SA2;23;late;numeric;2;2
+69;Pannonskaia;Hungaria;Tac-Fovenypuszta;47,097;18,415;s;;;2;1200;700;SA2;23;late;numeric;1;1
+70;Pannonskaia;Hungaria;Csongrad-Falgyo;46,672;20,16;s1-2;;;2;1200;700;SA2;23;late;numeric;1;1
+71;Pannonskaia;Hungaria;Gorzsa;46,3;20,4;s2;;;2;1200;700;SA2;23;late;numeric;1;7
+72;Pannonskaia;Hungaria;Tiszagyenda-Morotva (Lak);47,36;20,44;s2;;;2;1200;700;SA2;23;late;numeric;1;4
+73;Pannonskaia;Hungaria;Kardoskut-Hatablak;46,487;20,665;;;;2;1200;700;SA2;23;late;numeric;2;4
+74;Pannonskaia;Hungaria;Eperjes-Csikostabla;46,71;20,56;;;;2;1300;1200;SA2;23;late;numeric;3;6
+75;Pannonskaia;Hungaria;Tazlar;46,55;19,52;;;;2;1700;1500;SA2;23;late;numeric;1;2
+76;Pannonskaia;Hungaria;Tiszafoldv;46,95;20,25;;;;2;1700;1500;SA2;23;late;numeric;4;96
+77;Pannonskaia;Hungaria;Ormenykut;46,83;20,74;;;;2;1700;1500;SA2;23;late;numeric;1;1
+78;Pannonskaia;Hungaria;Endrod 170;46,93;20,77;;;;2;1700;1500;SA2;23;late;numeric;2;3
+79;Pannonskaia;Hungaria;Tiszafured;47,54;20,81;;;;2;1700;1600;SA2;23;late;numeric;1;6
+80;Pannonskaia;Hungaria;Tiszavasv;47,96;21,36;;;;2;1700;1500;SA2;23;late;numeric;3;3
+81;Pannonskaia;Hungaria;Tiszavasv;47,96;21,36;;;;2;1800;1500;SA2;23;late;numeric;1;2
+82;Pannonskaia;Hungaria;Kunszentm;46,96;19,17;;;;2;1900;1700;SA2;23;late;numeric;2;3
+83;Pannonskaia;Hungaria;Szabadsza;46,88;19,22;;;;2;1900;1700;SA2;23;late;numeric;1;1
+84;Pannonskaia;Hungaria;Kompolt 15;47,72;20,25;;;;2;1900;1700;SA2;23;late;numeric;3;29
+85;Pannonskaia;Hungaria;Gyoma 133;46,94;20,86;;;;2;1900;1700;SA2;23;late;numeric;2;2
+86;Pannonskaia;Hungaria;Gyoma 133;46,934;20,877;;;;2;1900;1800;SA2;23;late;numeric;2;2
+87;Pannonskaia;Hungaria;Gorzsa;46,3;20,4;s2;;;2;1100;500;SA2-3;24;late;numeric;1;3
+88;Pannonskaia;Hungaria;Tiszagyenda-Morotva (Lak);47,36;20,44;s2;;;2;1100;500;SA2-3;24;late;numeric;2;10
+89;Pannonskaia;Hungaria;Nyaregyha;47,26;19,51;s1-2;;;2;1600;500;SA2-3;24;late;numeric;1;1
+90;Pannonskaia;Hungaria;Gorzsa;46,3;20,4;s2;;;2;1600;500;SA2-3;24;late;numeric;2;3
+91;Pannonskaia;Hungaria;Endrod 19;46,94;20,83;s1-2;;;2;1600;500;SA2-3;24;late;numeric;1;6
+92;Pannonskaia;Hungaria;Tiszavasv;47,96;21,36;s1-2;;;2;1600;500;SA2-3;24;late;numeric;3;3
+93;Pannonskaia;Hungaria;Zalkod-Ja;48,19;21,46;s1-2;;;2;1600;500;SA2-3;24;late;numeric;3;26
+94;Pannonskaia;Hungaria;Szentkir?ly;46,9;19,91;s2;;;2;400;300;SA3;25;late;numeric;1;3
+95;Pannonskaia;Hungaria;Nyarsapat;47,1;19,804;s2;;;2;450;500;SA3;25;late;numeric;2;2
+96;Pannonskaia;Hungaria;Buda-Var-Pasa palota (Castle-the Pasha Palace);47,493;19,051;s2;;;2;459;301;SA3;25;late;numeric;2;14
+97;Pannonskaia;Hungaria;Barcs - Elementary school 2;46,38;18,73;s2;;;2;500;300;SA3;25;late;numeric;3;45
+98;Pannonskaia;Hungaria;Vac;47,78;19,13;s2;;;2;500;400;SA3;25;late;numeric;2;2
+99;Pannonskaia;Hungaria;Vac;47,78;19,13;s2;;;2;500;400;SA3;25;late;numeric;2;2
+100;Pannonskaia;Hungaria;Perk?ta;47;18,81;s2;;;2;600;400;SA3;25;late;numeric;3;14
+101;Pannonskaia;Hungaria;Vac;47,78;19,13;s2;;;2;600;500;SA3;25;late;numeric;3;12
+102;Pannonskaia;Hungaria;Vac;47,78;19,13;s2;;;2;600;500;SA3;25;late;numeric;3;12
+103;Pannonskaia;Hungaria;Orgondaszentmikl?s;47,22;20,6;s2;;;2;600;400;SA3;25;late;numeric;2;2
+104;Pannonskaia;Hungaria;Gyula-Var (Castle);46,646;21,286;s2;;;2;600;300;SA3;25;late;numeric;3;7
+105;Pannonskaia;Hungaria;Nagyvazsony-Csepely;46,98;17,7;s2;;;2;700;400;SA3;25;late;numeric;3;34
+106;Pannonskaia;Hungaria;Mende-Leanyvar;47,67;18,78;s2;;;2;800;700;SA3;25;late;numeric;2;2
+107;Pannonskaia;Hungaria;Buda-Var;47,48;19,05;s2;;;2;800;700;SA3;25;late;numeric;1;1
+108;Pannonskaia;Hungaria;Sarud-Pocstoltes;47,59;20,59;s2;;;2;900;700;SA3;25;late;numeric;1;7
+109;Dneprovskaia;Moldova;Kokora I;45,9;28,19;e`neolit;4500Ц4000†лет до н.†э.;;1;6500;6000;AT2;3;middle;numeric;4;72
+110;Dneprovskaia;Moldova;Vulkaneshty`;45,79;28,39;e`neolit;5860+-150;;1;6500;6000;AT2;3;middle;numeric;5;30
+111;Dneprovskaia;Moldova;Lopatcika I;45,93;28,41;e`neolit;4500Ц4000†лет до н.†э.;;1;6500;6000;AT2;3;middle;numeric;2;11
+112;Dneprovskaia;Moldova;Taracliia;46,11;28,68;e`neolit;4500Ц4000†лет до н.†э.;;1;6500;6000;AT2;3;middle;binary;4;4
+113;Dneprovskaia;Ukrane;Buz`ki;49,54;32,07;neolit;кон. 5- 1 пол. 4 тыс. до н.э.;;1;6250;5500;AT2-3;4;middle;numeric;4;72
+114;Dneprovskaia;Ukrane;Kuti;49,97;28,5;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;1;5
+115;Dneprovskaia;Moldova;Novy`e Ruseshty` I;46,93;28,65;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;7;869
+116;Dneprovskaia;Moldova;Karbuna;46,71;28,95;e`neolit;4500†-3500 до†н.†э.;;1;6500;5500;AT2-3;4;middle;numeric;4;18
+117;Dneprovskaia;Ukrane;Belilovka;49,68;29,03;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;1;4
+118;Dneprovskaia;Moldova;Alexanderovka I;46,72;29,03;e`neolit;4500†-3500 до†н.†э.;;1;6500;5500;AT2-3;4;middle;numeric;4;36
+119;Dneprovskaia;Ukrane;Chervona Gorka 1;50,4;29,17;e`neolit;;;1;6500;4650;AT2-3;4;middle;numeric;1;1
+120;Dneprovskaia;Ukrane;Pliskov;49,38;29,29;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;2;2
+121;Dneprovskaia;Ukrane;Iagniatin;49,76;29,3;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;2;2
+122;Dneprovskaia;Ukrane;Pavoloch`;49,87;29,45;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;4;21
+123;Dneprovskaia;Ukrane;Grenovka;48,18;30,15;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;1;9
+124;Dneprovskaia;Ukrane;Sabatinovka (I?);48,18;30,18;e`neolit;;;1;6500;4650;AT2-3;4;middle;numeric;4;111
+125;Dneprovskaia;Ukrane;Sabatinovka II;48,17;30,18;e`neolit;4500†-3500 до†н.†э.;;1;6500;5500;AT2-3;4;middle;numeric;4;166
+126;Dneprovskaia;Ukrane;Sabatinovka I;48,18;30,19;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;2;12
+127;Dneprovskaia;Ukrane;Sushkovka;48,41;30,2;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;binary;2;2
+128;Dneprovskaia;Ukrane;Grebeniukov Iar;48,49;30,42;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;binary;5;5
+129;Dneprovskaia;Ukrane;Mai`danetckoe-1†;48,49;30,42;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;binary;4;4
+130;Dneprovskaia;Ukrane;Halep`e;50,06;30,49;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;3;13
+131;Dneprovskaia;Ukrane;Kolomii`shchina 2;50,06;30,5;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;3;13
+132;Dneprovskaia;Ukrane;Kiev;50,45;30,52;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;3;63
+133;Dneprovskaia;Ukrane;Kievskie zemlianki;50,45;30,52;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;binary;4;4
+134;Dneprovskaia;Ukrane;Vladimirovka;48,64;32,01;e`neolit;4500-2650†гг. до†н.†э.;;1;6500;4650;AT2-3;4;middle;numeric;3;15
+135;Dneprovskaia;Ukrane;Moliuhov Bugor (Bibikova i Zhuravlev);49,13;32,49;e`neolit;;m Capreolus;1;6500;4650;AT2-3;4;middle;numeric;5;814
+136;Dneprovskaia;Ukrane;Dereivka;48,91;33,78;e`neolit;;;1;6500;4650;AT2-3;4;middle;numeric;4;513
+137;Dneprovskaia;Ukrane;Novaia Chertoriia;50,03;27,7;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;1;27
+138;Dneprovskaia;Ukrane;Troianov;50,11;28,53;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;4;46
+139;Dneprovskaia;Ukrane;Gorodsk (tripol`skii`);50,38;29,17;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;5;202
+140;Dneprovskaia;Ukrane;Sy`retc;50,47;30,44;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;1;34
+141;Dneprovskaia;Ukrane;Podgortcy` I;50,23;30,54;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;4;111
+142;Dneprovskaia;Ukrane;Podgortcy` II;50,23;30,54;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;3;8
+143;Dneprovskaia;Ukrane;Stary`e Bezradichi;50,17;30,58;e`neolit;3150Ч2650†гг. до†н.†э.;;1;5150;4650;AT3;5;middle;numeric;4;20
+144;Dneprovskaia;Ukrane;Berezovka;48,16;30,06;e`neolit;3500-3600 до .нэ.;;1;5600;5500;AT3;5;middle;binary;4;4
+145;Dneprovskaia;Ukrane;Korchi;50,19;30,13;b1;3600-2300 до н.э.;;1;5600;4300;AT3-SB1;7;middle;numeric;1;1
+146;Dneprovskaia;Ukrane;Chehovka-17;49,51;32,2;b1;3600-2300 до н.э.;;1;5600;4300;AT3-SB1;7;middle;numeric;1;1
+147;Dneprovskaia;Ukrane;Popovo Ozero;49,19;32,35;b1;3600-2300 до н.э.;;1;5600;4300;AT3-SB1;7;middle;numeric;3;45
+148;Dneprovskaia;Ukrane;Stepanovka;50,12;32,24;b3;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;1;2
+149;Dneprovskaia;Ukrane;Malopolovetckoe-3. Gor. 2-3;49,92;29,81;b3;19-11 вв. до н.э.;;2;3900;3000;SB2;11;middle;numeric;3;40
+150;Dneprovskaia;Ukrane;Zhabotin;49,15;32,15;r;7-6 до н.э.;;2;2700;2500;SB3;13;middle;numeric;1;2
+151;Dneprovskaia;Ukrane;Sudeevka;49,5;34,41;b3;7-6 вв. до нэ.;;2;2700;2500;SB3;13;middle;numeric;1;26
+152;Dneprovskaia;Ukrane;Chernolesskoe II;48,78;32,55;b3r;8 вв. до н.э.;;2;2800;2700;SB3;13;middle;numeric;1;1
+153;Dneprovskaia;Ukrane;Adamovka;49,12;32,63;b3r;8-7 вв. до н.э.;;2;2800;2600;SB3;13;middle;numeric;1;2
+154;Dneprovskaia;Ukrane;Novo-Georgievka;49,08;33,1;b3r;8-7 вв. до н.э.;;2;2800;2600;SB3;13;middle;numeric;1;1
+155;Dneprovskaia;Ukrane;Subbotovo (Bibikova, Zhuravlev i Pidoplichko);49,08;32,54;b3;9-8 в. до н.э.;;2;2900;2700;SB3;13;middle;numeric;5;213
+156;Dneprovskaia;Ukrane;Chernolesskoe I;48,77;32,54;b3r;9 вв. до н.э.;;2;2900;2800;SB3;13;middle;numeric;2;5
+157;Dneprovskaia;Ukrane;Sobkovka;48,69;30,28;b3;11-8 вв. до н.э.;;2;3100;2700;SB3;13;middle;numeric;3;8
+158;Dneprovskaia;Ukrane;Machuhi (zol`nik 5);49,51;34,43;r;7-4 вв. до н.э.;;2;2700;2300;SB3-SA1;15;middle-late;numeric;2;10
+159;Dneprovskaia;Ukrane;Hodosivka;50,2;30,3;b3r;8 в. до н.э.-4 в. нэ.;;2;2800;1600;SB3-SA1;15;middle-late;numeric;2;14
+160;Dneprovskaia;Moldova;Ul`ma;47,01;28,55;r;2-1 вв. до н.э.;;2;2200;2000;SA1;21;late;numeric;3;30
+161;Dneprovskaia;Ukrane;Pirogov hutor;50,39;30,23;r;2 в. до н.э.;;2;2200;2100;SA1;21;late;numeric;1;4
+162;Dneprovskaia;Ukrane;Obolon` (Lug 4);50,3;30,29;r;1 в. до н.э. - 1 в. н.э.(?);;2;2225;1950;SA1;21;late;numeric;5;106
+163;Dneprovskaia;Ukrane;Monasty`rek zarubin.;49,97;31,29;r;3-1 в. до н.э.;;2;2225;1950;SA1;21;late;numeric;2;7
+164;Dneprovskaia;Ukrane;Babina gora;49,87;31,43;r;1 в. до н.э. - 1 в.н.э.;;2;2225;1950;SA1;21;late;numeric;4;131
+165;Dneprovskaia;Ukrane;Pristan` urochishche;49,87;31,43;r;3 в. до н.э. - 1 в.н.э.;;2;2225;1950;SA1;21;late;numeric;3;32
+166;Dneprovskaia;Ukrane;Sakhnovka zarub.;49,51;31,44;r;кон. 3 в. до н. э. Ц сер. 1 в. н. э.;;2;2225;1950;SA1;21;late;numeric;3;4
+167;Dneprovskaia;Ukrane;Pilipenkova gora;49,74;31,49;r;3 в. до н.э. - 1 в.н.э.;;2;2225;1950;SA1;21;late;numeric;4;151
+168;Dneprovskaia;Moldova;Hanska;46,83;28,75;r;4-3 вв. до н.э.;;2;2400;2200;SA1;21;late;numeric;1;1
+169;Dneprovskaia;Ukrane;Sharpovskoe;48,95;31,8;r;5-4 до н.э.;;2;2500;2300;SA1;21;late;numeric;5;136
+170;Dneprovskaia;Ukrane;Kny`shevka;50,41;34,12;r;5-4 вв. до н.э.;;2;2500;2300;SA1;21;late;numeric;1;3
+171;Dneprovskaia;Ukrane;Hotovskoe;50,33;30,47;r;6-3 вв. до н.э.;;2;2600;2200;SA1;21;late;numeric;3;32
+172;Dneprovskaia;Ukrane;Trakhtemirovskoe;49,98;31,35;r;6 в. до н.э.;;2;2600;2500;SA1;21;late;numeric;6;302
+173;Dneprovskaia;Ukrane;Shiriaevo;51,32;33,99;r;6-5 вв. до н.э.;;2;2600;2400;SA1;21;late;numeric;4;45
+174;Dneprovskaia;Ukrane;Shiriaevskoe;51,32;33,99;r;6-5 вв. до н.э.;;2;2600;2400;SA1;21;late;numeric;4;45
+175;Dneprovskaia;Ukrane;Bel`skoe;50,09;34,64;r;6-5 вв. до н.э.;;2;2600;2400;SA1;21;late;numeric;4;84
+176;Dneprovskaia;Ukrane;Basovskoe;51,18;35,09;r;6-4 вв. до н.э.;;2;2600;2300;SA1;21;late;numeric;4;268
+177;Dneprovskaia;Ukrane;Monasty`rek Rus`;49,97;31,29;s2;12 в.;;2;900;800;SA2;23;late;numeric;3;3
+178;Dneprovskaia;Ukrane;Rai`kovetckoe;49,97;28,49;s2;11-13 вв.;m Capreolus;2;1000;700;SA2;23;late;numeric;2;263
+179;Dneprovskaia;Ukrane;Kiev (ul. Vladimirskaia i B. Zhitomirskaia?);50,45;30,52;s2;11-13 вв.;;2;1000;700;SA2;23;late;numeric;7;507
+180;Dneprovskaia;Ukrane;Starokievskaia gora;50,45;30,52;s2;11-13 вв.;;2;1000;700;SA2;23;late;numeric;4;6
+181;Dneprovskaia;Ukrane;Polovetckoe;49,53;31,01;s2;11-13 вв.;;2;1000;700;SA2;23;late;numeric;5;70
+182;Dneprovskaia;Ukrane;Voin`;49,69;32,71;s2;11-13 вв.;;2;1000;700;SA2;23;late;numeric;6;1350
+183;Dneprovskaia;Ukrane;Komarovka;50,01;31,46;s2;10-16 вв.;;2;1100;400;SA2;23;late;numeric;4;20
+184;Dneprovskaia;Ukrane;Rodnia;49,74;31,42;s2;9-13 вв.;;2;1200;700;SA2;23;late;numeric;4;138
+185;Dneprovskaia;Ukrane;Desiatinnaia tcerkov`;50,45;30,52;s1;8-10 вв.;;2;1300;1000;SA2;23;late;numeric;2;8
+186;Dneprovskaia;Ukrane;Monasty`rek ranneslav.;49,97;31,29;s1;8-10 вв.;;2;1300;1000;SA2;23;late;numeric;5;146
+187;Dneprovskaia;Ukrane;Novotroitckoe;50,55;34,33;s1;8-9 вв.;m Capreolus;2;1300;1000;SA2;23;late;numeric;4;427
+188;Dneprovskaia;Ukrane;Oposhnia;49,64;34,78;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;4;45
+189;Dneprovskaia;Ukrane;Sakhnovka slav.;49,51;31,44;s1;7 вв. (ѕидопличко: 1-5 вв. (нач. - сер. 1 тыс. н.э.));;2;1400;1300;SA2;23;late;numeric;5;80
+190;Dneprovskaia;Ukrane;Pasty`rskoe;48,97;31,79;s1;7-8 вв.;;2;1400;1200;SA2;23;late;numeric;4;19
+191;Dneprovskaia;Ukrane;Voly`ntcevo;51,26;34,03;s1;7-8 вв.;;2;1400;1200;SA2;23;late;numeric;4;165
+192;Dneprovskaia;Ukrane;Gorodsk (slavianskii`);50,38;29,17;s2;6-8 вв.;;2;1500;1200;SA2;23;late;numeric;4;211
+193;Dneprovskaia;Ukrane;Chervona Gorka 3;50,4;29,2;s1;6-8 вв.;;2;1500;1200;SA2;23;late;numeric;4;118
+194;Dneprovskaia;Ukrane;Kiselyovka (Zamkovaia) gora - 2;50,45;30,52;s1-2;6-12 вв.;;2;1500;800;SA2;23;late;numeric;3;140
+195;Dneprovskaia;Ukrane;Kiselyovka (Zamkovaia) gora;50,46;30,53;s1-2;6-12 вв.;;2;1500;800;SA2;23;late;numeric;5;281
+196;Dneprovskaia;Ukrane;Besedovka;50,89;33,73;r;4-5 вв.;;2;1500;1200;SA2;23;late;numeric;2;10
+197;Dneprovskaia;Moldova;Kashnitca;47,15;29,13;r;сер. 3 - нач. 5 вв.;;2;1750;1550;SA2;23;late;numeric;2;7
+198;Dneprovskaia;Ukrane;Delakeu;47,1;29,31;r;сер. 3 - нач. 5 вв.;;2;1750;1550;SA2;23;late;numeric;2;4
+199;Dneprovskaia;Ukrane;Zhukovtcy`;50,08;30,78;r;сер. 3 - нач. 5 вв. н.э.;;2;1750;1550;SA2;23;late;numeric;1;2
+200;Dneprovskaia;Ukrane;Lepesovka;49,97;26,23;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;4;65
+201;Dneprovskaia;Moldova;Komrat;46,3;28,68;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;1;2
+202;Dneprovskaia;Ukrane;Priazhev;50,19;28,68;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;1;8
+203;Dneprovskaia;Moldova;Balbaneshty`;47,07;29,14;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;1;9
+204;Dneprovskaia;Ukrane;Zhurovka;49,28;31,18;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;3;13
+205;Dneprovskaia;Ukrane;Leski;49,33;32,21;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;1;1
+206;Dneprovskaia;Ukrane;Lomovatoe I;49,31;32,34;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;1;1
+207;Dneprovskaia;Ukrane;Lomovatoe II;49,3;32,34;r;3-4 вв.;;2;1800;1600;SA2;23;late;numeric;3;9
+208;Dneprovskaia;Ukrane;Uspenskoe;48,93;33,63;r;2-4 вв.;;2;1900;1600;SA2;23;late;numeric;3;6
+209;Dneprovskaia;Ukrane;Velikie Dmitrovichi;50,2;30,55;r;2 в. до н.э.;;2;2200;2100;SA1;23;late;numeric;2;2
+210;Dneprovskaia;Ukrane;Gubin;49,78;27,44;s2;12-13 вв.;;2;900;700;SA2-3;24;late;numeric;2;122
+211;Dneprovskaia;Ukrane;Vy`shgorod;50,58;30,49;s2;12-13 вв.;;2;900;700;SA2-3;24;late;numeric;7;493
+212;Dneprovskaia;Ukrane;Kiselyovka (Zamkovaia) gora - 1;50,45;30,52;s2;12-13 вв.;;2;900;700;SA2-3;24;late;numeric;5;11
+213;Dneprovskaia;Ukrane;Shuchinskoe (Chuchin);50,04;30,96;s2;12-13 вв.;;2;900;700;SA2-3;24;late;numeric;4;26
+214;Dneprovskaia;Ukrane;Ivan;49,96;31,04;s2;12-13 вв.;;2;900;700;SA2-3;24;late;numeric;4;10
+215;Dneprovskaia;Ukrane;Levadniukova Gora;50,02;34,65;s2;кон. 13-14 вв.;;2;750;600;SA3;25;late;numeric;1;1
+216;Srednerusskaia;Voronezhskaia;Cherkasskaia-5;50,64;39,93;n1;5176-4687 л.до н.э.;;1;7176;6687;AT1;1;middle;binary;2;2
+217;Srednerusskaia;Leepetckaia;Vasil`evskii` Kordon 17 i 27;52,98;40,01;e`neolit;5300-4250 л. ƒо н.э.;;1;4700;4600;AT3;5;middle;numeric;3;137
+218;Srednerusskaia;Leepetckaia;Vasil`evskii` Kordon 27;52,98;40,01;e`neolit;5300-4250 л. ƒо н.э.;M Alces;1;4700;4600;AT3;5;middle;numeric;3;126
+219;Srednerusskaia;Voronezhskaia;Kopanishche 1;50,6;40,2;n;;;1;5800;5200;AT3;5;middle;numeric;4;32
+220;Srednerusskaia;Voronezhskaia;Kopanishche 2;50,6;40,2;n;;;1;5800;5200;AT3;5;middle;numeric;2;35
+221;Srednerusskaia;Voronezhskaia;Cherkasskaia;50,64;39,93;n;5997±33¬–;;1;5997;5997;AT3;5;middle;numeric;4;127
+222;Srednerusskaia;Voronezhskaia;Voznesenskoe;51,71;38,85;b2;2 пол. 3 тыс. - 1 пол. 2 тыс. до н.э.;;1-2;4500;3750;SB1-2;10;middle;numeric;1;1
+223;Srednerusskaia;Voronezhskaia;Shilovskoe;51,54;39,09;b2;2 пол. 3 тыс. - 1 пол. 2 тыс. до н.э.;;1-2;4500;3750;SB1-2;10;middle;binary;3;3
+224;Srednerusskaia;Voronezhskaia;Levoberezhnoe;51,53;39,13;b2;2 пол. 3 тыс. - 1 пол. 2 тыс. до н.э.;;1-2;4500;3750;SB1-2;10;middle;numeric;1;1
+225;Srednerusskaia;Voronezhskaia;Ry`kan`-3;51,62;39,56;b2;25-20 вв. до н.э.;;1-2;4500;3900;SB1-2;10;middle;numeric;3;118
+226;Srednerusskaia;Leepetckaia;Dobroe 9;52,86;39,83;n1;25-20 вв. до н.э.;;1-2;4500;3900;SB1-2;10;middle;binary;3;3
+227;Srednerusskaia;Voronezhskaia;Pervoe Maslovskoe;51,85;40,16;b2;2 пол. 3 тыс. - 1 пол. 2 тыс. до н.э.;;1-2;4500;3750;SB1-2;10;middle;binary;3;3
+228;Srednerusskaia;Tul`skaia;Razdol`e 1;53,29;38,04;b3;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;2;20
+229;Srednerusskaia;Tul`skaia;Lesopitomnik 4;53,3;38,06;b3;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;2;8
+230;Srednerusskaia;Voronezhskaia;Erik;51,36;39,11;b;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;1;5
+231;Srednerusskaia;Voronezhskaia;Mosolovskoe;51,57;40,44;b3;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;5;13
+232;Srednerusskaia;Voronezhskaia;Sadovoe-6;51,54;40,49;b3;16-12 вв. до н.э.;;2;3600;3100;SB2;11;middle;numeric;3;6
+233;Srednerusskaia;Voronezhskaia;Titchihinskoe 2;51,17;39,26;r;8 в. до н.э. -4 в. н.э.;;2;2800;2300;SB3;13;middle;numeric;1;1
+234;Srednerusskaia;Leepetckaia;TCely`kovka 2;52,74;38,16;r;2 в.;;2;1900;1800;SA1;21;late;numeric;2;29
+235;Srednerusskaia;Ukrane;Peresechnoe;50,02;35,98;r;1-2 вв.;;2;2000;1800;SA1;21;late;numeric;4;24
+236;Srednerusskaia;Ukrane;Gorodishche (Cookolevskoe, Odry`nskoe);49,89;35,85;r;4-3 вв. до н.э.;;2;2400;2200;SA1;21;late;numeric;3;5
+237;Srednerusskaia;Ukrane;Bol`shaia Gomol`sha;49,55;36,26;r;4-3 вв. до н.э.;;2;2400;2200;SA1;21;late;numeric;3;7
+238;Srednerusskaia;Ukrane;Tcirkuny`;50,08;36,39;r;4-1 вв. до н.э.;;2;2400;2000;SA1;21;late;numeric;1;1
+239;Srednerusskaia;Voronezhskaia;Russkaia Trostianka;50,88;38,76;r;4-2 вв. до н.э.;;2;2400;2100;SA1;21;late;numeric;1;2
+240;Srednerusskaia;Voronezhskaia;Voloshinskoe;50,87;38,94;r;4-3 вв. до н.э.;;2;2400;2200;SA1;21;late;numeric;2;37
+241;Srednerusskaia;Voronezhskaia;Mostishche;51,03;39,1;r;4-3 вв. до н.э.;;2;2400;2200;SA1;21;late;numeric;1;1
+242;Srednerusskaia;Ukrane;Barchany`;49,94;35,85;r;5 в. до н.э.;;2;2500;2400;SA1;21;late;numeric;2;2
+243;Srednerusskaia;Ukrane;Liubotin;49,94;35,92;r;5-3 вв. до н.э.;;2;2500;2200;SA1;21;late;numeric;3;39
+244;Srednerusskaia;Ukrane;Korobovy` Hutora skifskoe gorodishche;49,59;36,35;r;5-3 до н.э.;;2;2500;2200;SA1;21;late;numeric;1;1
+245;Srednerusskaia;Belgorodskaia;Kirovskoe;50,61;38,66;r;5-3 вв. до н.э.;;2;2500;2200;SA1;21;late;numeric;2;2
+246;Srednerusskaia;Voronezhskaia;Bol`shoe Storozhevoe;51,21;39,18;r;5-3 вв. до н.э.;;2;2500;2200;SA1;21;late;numeric;4;45
+247;Srednerusskaia;Ukrane;Ostroverhovka (zol`nik 4);49,79;36,16;r;6-5 вв. до н.э.;;2;2600;2400;SA1;21;late;numeric;4;30
+248;Srednerusskaia;Ukrane;Sarzhin Iar;50;36,23;r;8 в. до н.э. -4 в. н.э.;;2;2600;2400;SA1;21;late;numeric;1;1
+249;Srednerusskaia;Ukrane;Gorodne (kompl. 3);50,11;35,23;s2;11-13 вв.;;2;1000;700;SA2;23;late;binary;3;3
+250;Srednerusskaia;Ukrane;Mokhnach (romensk.);49,72;36,51;s1;2 пол. 10-нач. 11 вв.;;2;1050;1125;SA2;23;late;numeric;1;1
+251;Srednerusskaia;Ukrane;Gorodne (kompl. 2);50,11;35,23;s2;10-11 вв.;;2;1100;900;SA2;23;late;binary;2;2
+252;Srednerusskaia;Ukrane;Vodianoe;49,79;36,35;s1;8-1 пол. 11 вв.;;2;1100;1050;SA2;23;late;numeric;5;108
+253;Srednerusskaia;Ukrane;Petrovskoe;50,36;35,06;s2;9-12 вв.;m Capreolus;2;1200;800;SA2;23;late;numeric;4;71
+254;Srednerusskaia;Ukrane;Gorodne (kompl. 1);50,11;35,23;s1;9-10 вв.;;2;1200;1000;SA2;23;late;binary;3;3
+255;Srednerusskaia;Voronezhskaia;Zhivotinnoe;51,89;39,27;s1;9-11 вв.;;2;1200;900;SA2;23;late;binary;3;3
+256;Srednerusskaia;Kurskaia;Leepinskoe;51,67;35,83;s1;8-9 вв.;m Capreolus;2;1300;1000;SA2;23;late;numeric;4;471
+257;Srednerusskaia;Kurskaia;Gochevo;51,12;35,87;s1;8-9 вв.;m Capreolus;2;1300;1000;SA2;23;late;numeric;3;774
+258;Srednerusskaia;Ukrane;Donetckoe;49,91;36,18;s2;8-13 вв.;;2;1300;700;SA2;23;late;binary;1;1
+259;Srednerusskaia;Ukrane;Korobovy` Hutora romenskoe gorodishche;49,59;36,35;s1;8-10 вв.;;2;1300;1000;SA2;23;late;numeric;1;1
+260;Srednerusskaia;Ukrane;Korobovy` Hutora selishche;49,59;36,35;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;3;3
+261;Srednerusskaia;Ukrane;Roganina urochishche;49,49;36,36;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;1;3
+263;Srednerusskaia;Ukrane;Piatneytckoe 1;49,93;36,81;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;1;4
+264;Srednerusskaia;Voronezhskaia;Arhangel`skoe (Goly`shevskoe);51,26;39,14;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;4;8
+265;Srednerusskaia;Voronezhskaia;Titchiha;51,11;39,15;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;6;1030
+266;Srednerusskaia;Voronezhskaia;Borshevo 1;51,33;39,16;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;5;1127
+267;Srednerusskaia;Voronezhskaia;Borshevo 2;51,34;39,17;s1;8-9 вв.;;2;1300;1000;SA2;23;late;numeric;4;16
+268;Srednerusskaia;Voronezhskaia;Kuznetcova Dacha (Kuznetcovskoe);51,73;39,23;s1;8-9 вв.;m Capreolus;2;1300;1000;SA2;23;late;numeric;4;238
+269;Srednerusskaia;Leepetckaia;TCely`kovka 2;52,74;38,16;s2;14-15 вв.;;2;700;500;SA3;25;late;numeric;3;41
+270;Privolzhskaia;Ul`ianovskaia;Starotimoshkino;53,72;47,54;b3;;;2;3600;3200;SB2;11;middle;numeric;1;4
+271;Privolzhskaia;Tatarstan;Nadlugovaia;55,34;49,26;b3;;;2;3600;2800;SB2-3;12;middle;numeric;1;1
+272;Privolzhskaia;Tatarstan;Antonovskoe;55,31;49,16;r;;;2;2700;2400;SA1;21;late;numeric;2;4
+273;Privolzhskaia;Chuvashiia;Tigashevskoe;55,06;47,51;s2;;;2;1200;900;SA2;23;late;numeric;1;9
+274;Privolzhskaia;Penzenskaia;Iulovskoe;53,2;45,38;s2;;;2;1300;1000;SA2;23;late;numeric;1;3
+275;Privolzhskaia;Ul`ianovskaia;Krasnosiundiukovskoe;54,64;48,19;s2;;;2;764;609;SA3;25;late;numeric;1;1
+276;Zavolzhskaia;Samarskaia;Chekalino IV;53,51;50,55;n;;;1;8000;7500;AT1;1;middle;numeric;4;20
+277;Zavolzhskaia;Bashkortostan;Davlekanovo III;54,22;54,99;n;;M Alces;1;8000;7500;AT1;1;middle;numeric;2;35
+278;Zavolzhskaia;Samarskaia;Krasny`i` iar VII;53,28;50,23;n;;;1;7000;6500;AT1-2;2;middle;numeric;4;11
+279;Zavolzhskaia;Bashkortostan;Mullinskoe II;54,45;53,45;n;;M Alces;1;7000;6500;AT1-2;2;middle;numeric;3;648
+280;Zavolzhskaia;Samarskaia;Lebiazhinka IV;53,43;50,42;n;;;1;8000;6500;AT1-2;2;middle;numeric;4;42
+281;Zavolzhskaia;Samarskaia;Chekalino IV;53,49;50,53;n;;;1;8000;6500;AT1-2;2;middle;numeric;4;8
+282;Zavolzhskaia;Samarskaia;Chekalino IV;53,5;50,54;n;;;1;9000;6500;AT1-2;2;middle;numeric;3;8
+283;Zavolzhskaia;Samarskaia;Lebiazhinka III;53,44;50,4;e`(1);;;1;6500;5300;AT2-3;4;middle;numeric;2;3
+284;Zavolzhskaia;Samarskaia;Lebiazhinka III;53,45;50,4;e`(1);;;1;6500;5300;AT2-3;4;middle;numeric;1;1
+285;Zavolzhskaia;Samarskaia;Lebiazhinka VI;53,46;50,43;e`(1);;;1;6500;5300;AT2-3;4;middle;numeric;2;34
+286;Zavolzhskaia;Samarskaia;Lebiazhinka II;53,68;50,68;e`;;;1;6500;4650;AT2-3;4;middle;numeric;2;7
+287;Zavolzhskaia;Bashkortostan;Mullinskoe III;54,45;53,45;e`(1);;M Alces;1;6500;5300;AT2-3;4;middle;numeric;3;498
+288;Zavolzhskaia;Orenburgskaia;Turgannikskaia;52,8;53,78;e`(1);;;1;6500;5300;AT2-3;4;middle;numeric;4;21
+289;Zavolzhskaia;Bashkortostan;Staroe Burtiukovo;55,72;54,56;e`;;;1;6500;4650;AT2-3;4;middle;numeric;1;1
+291;Zavolzhskaia;Bashkortostan;Kakry`bash III;54,42;53,39;e`(2);;M Alces;1;5300;4650;AT3;5;middle;numeric;3;606
+292;Zavolzhskaia;Bashkortostan;Chishminskaia;54,26;55,54;e`(2);;;1;5300;4650;AT3;5;middle;numeric;2;7
+293;Zavolzhskaia;Orenburgskaia;Turgannikskaia;52,8;53,78;b1;;;1;5900;5400;AT3;5;middle;numeric;4;35
+294;Zavolzhskaia;Samarskaia;Chekalino II;53,52;50,55;b3;;;2;3300;3100;SB2;11;middle;numeric;1;1
+295;Zavolzhskaia;Samarskaia;Nizhniaia Orlianka II;53,82;50,95;b3;;;2;3400;3100;SB2;11;middle;numeric;1;1
+296;Zavolzhskaia;Bashkortostan;Aitovo;53,3;54,13;b3;;;2;3400;3100;SB2;11;middle;numeric;4;8
+297;Zavolzhskaia;Bashkortostan;Iumakovo II;53,09;55,58;b3;;;2;3400;3300;SB2;11;middle;numeric;1;1
+298;Zavolzhskaia;Samarskaia;Fyodorovka, 1982, 2001, 2003, 2005;52,81;48,54;b3;;;2;3600;3200;SB2;11;middle;numeric;1;1
+299;Zavolzhskaia;Samarskaia;Sachkovo;53,09;48,58;b3;;;2;3600;3800;SB2;11;middle;numeric;1;1
+300;Zavolzhskaia;Samarskaia;Shigony` III;53,4;48,68;b3;;;2;3600;3200;SB2;11;middle;numeric;2;8
+301;Zavolzhskaia;Ul`ianovskaia;Gul`kinskaia;54,6;48,95;b3;;;2;3600;3200;SB2;11;middle;numeric;2;40
+302;Zavolzhskaia;Samarskaia;Moechnoe Ozero III;53,39;49,18;b3;;;2;3600;3200;SB2;11;middle;numeric;1;1
+303;Zavolzhskaia;Samarskaia;Moechnoe Ozero I;53,37;49,19;b3;;;2;3600;3200;SB2;11;middle;numeric;3;41
+304;Zavolzhskaia;Samarskaia;Moechnoe Ozero II;53,38;49,2;b3;;;2;3600;3200;SB2;11;middle;numeric;1;1
+305;Zavolzhskaia;Samarskaia;Suskanskoe I;53,77;49,28;b3;;;2;3600;3200;SB2;11;middle;numeric;1;5
+306;Zavolzhskaia;Samarskaia;Ekaterinovka I;52,7;49,39;b3;;;2;3600;3100;SB2;11;middle;numeric;3;7
+307;Zavolzhskaia;Samarskaia;Zhigulevskoe I;53,41;49,48;b3;;;2;3600;3200;SB2;11;middle;numeric;2;4
+308;Zavolzhskaia;Samarskaia;Kriazh I;53,06;50,08;b3;;;2;3600;3200;SB2;11;middle;numeric;1;3
+309;Zavolzhskaia;Samarskaia;Iaitckoe I;53,11;50,17;b3;;;2;3600;3200;SB2;11;middle;numeric;1;3
+310;Zavolzhskaia;Samarskaia;Krasny`i` Iar II;53,28;50,23;b3;;;2;3600;3200;SB2;11;middle;numeric;1;3
+311;Zavolzhskaia;Samarskaia;Nadezhdinskoe VI;54,1;50,35;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+312;Zavolzhskaia;Samarskaia;Lebiazhinka V;53,68;50,5;b3;;;2;3600;3200;SB2;11;middle;numeric;2;33
+313;Zavolzhskaia;Samarskaia;Chesnokovka II;53,85;50,54;b3;;M Alces;2;3600;3100;SB2;11;middle;numeric;1;54
+314;Zavolzhskaia;Samarskaia;Krasno-Samarskoe;53,07;50,76;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+315;Zavolzhskaia;Samarskaia;Peschany`i` Dol 1;52,73;50,92;b3;;;2;3600;3500;SB2;11;middle;numeric;1;1
+316;Zavolzhskaia;Samarskaia;Nai`dennoe Ozero I;55,05;51,16;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+317;Zavolzhskaia;Samarskaia;Touzakovskoe II;53,43;51,45;b3;;;2;3600;3200;SB2;11;middle;numeric;2;6
+318;Zavolzhskaia;Samarskaia;Touzakovskoe I;53,42;51,46;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+319;Zavolzhskaia;Samarskaia;Poludni II;53,42;51,73;b3;;;2;3600;3200;SB2;11;middle;binary;1;1
+320;Zavolzhskaia;Bashkortostan;Abdulovskoe, 1979, 1984;54,2;53,44;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+321;Zavolzhskaia;Tatarstan;Urazaevo I;55,76;53,93;b3;;;2;3600;3200;SB2;11;middle;numeric;1;3
+322;Zavolzhskaia;Bashkortostan;Naberezhnoe I;53,26;54,12;b3;;;2;3600;3200;SB2;11;middle;numeric;3;16
+323;Zavolzhskaia;Bashkortostan;Aitovskoe, 1985;53,53;54,21;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+324;Zavolzhskaia;Tatarstan;Imanlei`skaia I;55,77;54,3;b3;;;2;3600;3200;SB2;11;middle;numeric;1;4
+325;Zavolzhskaia;Bashkortostan;Kazangulovo 1995;54,16;55,13;b3;;;2;3600;3200;SB2;11;middle;numeric;1;3
+326;Zavolzhskaia;Bashkortostan;Novo-Baskakovo;54,85;55,41;b3;;;2;3600;3200;SB2;11;middle;binary;1;1
+327;Zavolzhskaia;Bashkortostan;Usmanovo I;53,56;55,44;b3;;;2;3600;3200;SB2;11;middle;numeric;2;14
+328;Zavolzhskaia;Bashkortostan;Usmanovo II;53,55;55,44;b3;;;2;3600;3200;SB2;11;middle;numeric;1;2
+329;Zavolzhskaia;Bashkortostan;Mooready`movskoe;53,95;55,52;b3;;;2;3600;3200;SB2;11;middle;numeric;4;21
+330;Zavolzhskaia;Bashkortostan;Chishminskoe, 1980/83;54,26;55,54;b3;;;2;3600;3200;SB2;11;middle;numeric;3;32
+331;Zavolzhskaia;Bashkortostan;Zhukovskaia;54,66;55,76;b3;;;2;3600;3200;SB2;11;middle;numeric;1;1
+332;Zavolzhskaia;Bashkortostan;Akhmetovo I;54,23;55,8;b3;;;2;3600;3200;SB2;11;middle;numeric;1;9
+333;Zavolzhskaia;Bashkortostan;Tiubiak;52,52;56,11;b3;;;2;3600;3200;SB2;11;middle;numeric;2;16
+334;Zavolzhskaia;Bashkortostan;Inzelga;53,87;56,3;b3;;;2;3600;3200;SB2;11;middle;numeric;3;10
+335;Zavolzhskaia;Bashkortostan;Bikkulovo;53,44;54,55;b3;;;2;3700;3300;SB2;11;middle;numeric;1;3
+336;Zavolzhskaia;Samarskaia;Russkaia selit`ba;53,77;50,65;b3;;;2;3800;3500;SB2;11;middle;numeric;1;1
+337;Zavolzhskaia;Bashkortostan;Davlekanovo;54,22;55;b3;;M Alces;2;3800;3200;SB2;11;middle;numeric;2;238
+338;Zavolzhskaia;Bashkortostan;Beregovka I;53,07;55,57;b3;;m Capreolus;2;3800;3300;SB2;11;middle;numeric;4;93
+339;Zavolzhskaia;Bashkortostan;Iumakovo III;53,1;55,57;b3;;;2;3800;3300;SB2;11;middle;numeric;1;2
+340;Zavolzhskaia;Bashkortostan;Tiubiak;52,51;56,07;b3;;;2;3800;3600;SB2;11;middle;numeric;1;1
+341;Zavolzhskaia;Bashkortostan;Tiubiak;52,53;56,09;b3;;;2;3800;3300;SB2;11;middle;numeric;3;10
+342;Zavolzhskaia;Samarskaia;Krasny`i` gorodok;53,66;50,63;b3;;;2;4000;3600;SB2;11;middle;numeric;2;11
+343;Zavolzhskaia;Bashkortostan;Kazangulovskoe I;54,17;55,14;b3;;;2;4000;3000;SB2;11;middle;numeric;1;2
+344;Zavolzhskaia;Bashkortostan;Staro-Kabanovskoe;55,54;53,54;b3;;;2;3000;2750;SB2-3;12;middle;numeric;1;4
+345;Zavolzhskaia;Bashkortostan;Kirgizovskoe 4;55,79;54,36;b3;;;2;3200;2700;SB2-3;12;middle;numeric;1;4
+346;Zavolzhskaia;Bashkortostan;Staro-Iapparovskoe;54,31;55,24;b3;;;2;3400;2800;SB2-3;12;middle;numeric;2;15
+347;Zavolzhskaia;Bashkortostan;Nizhegorodskaia;54,37;55,51;b3;;;2;3400;2800;SB2-3;12;middle;numeric;1;1
+348;Zavolzhskaia;Bashkortostan;Iumaguzinskoe;52,53;56,23;b3;;;2;3400;2700;SB2-3;12;middle;numeric;1;1
+349;Zavolzhskaia;Tatarstan;Russko-Shuganskoe III;55,19;53,19;b3;;;2;3600;2600;SB2-3;12;middle;numeric;1;1
+350;Zavolzhskaia;Tatarstan;Kurgan;55,29;50,14;r;;;2;2800;2400;SB3;13;middle;numeric;2;7
+351;Zavolzhskaia;Bashkortostan;Staro-Mushtinskoe;55,48;54,15;r;;;2;2800;2500;SB3;13;middle;numeric;1;20
+352;Zavolzhskaia;Bashkortostan;Kush-tau zapadnoe;53,41;56,05;r;;;2;2800;1600;SB3;13;middle;numeric;1;3
+353;Zavolzhskaia;Bashkortostan;Kas`ianov M.I. im.;54,13;56,4;r;;;2;2800;2700;SB3;13;middle;numeric;3;17
+354;Zavolzhskaia;Bashkortostan;Udel`no-Duvanei`skoe;55,19;55,86;b3;;;2;3000;2750;SB3;13;middle;numeric;1;5
+355;Zavolzhskaia;Bashkortostan;Azanui`;53;56,35;b3;;;2;3000;2750;SB3;13;middle;numeric;3;40
+356;Zavolzhskaia;Bashkortostan;Udel`no-Duvanei`skaia II;55,18;55,85;b3;;;2;3200;2750;SB3;13;middle;numeric;1;8
+357;Zavolzhskaia;Samarskaia;Sidel`kinskoe II;54,54;51,11;s1;;;2;1900;1700;SA1;21;late;numeric;1;14
+358;Zavolzhskaia;Bashkortostan;Uiandy`k;55,69;54,35;r;;;2;2150;1700;SA1;21;late;numeric;1;1
+359;Zavolzhskaia;Bashkortostan;Biktimirovskoe;55,19;55,56;r;;;2;2150;1700;SA1;21;late;numeric;3;16
+360;Zavolzhskaia;Bashkortostan;Sepen`kino;55,43;54,29;r;;;2;2200;1700;SA1;21;late;numeric;1;1
+361;Zavolzhskaia;Bashkortostan;Ubalar;54,14;56,51;r;;m Capreolus;2;2350;1500;SA1;21;late;numeric;2;28
+362;Zavolzhskaia;Bashkortostan;Biktimirovskoe;55,18;55,53;r;;;2;2400;1700;SA1;21;late;numeric;4;32
+363;Zavolzhskaia;Bashkortostan;Biktimirovskoe;55,17;55,57;r;;;2;2400;1700;SA1;21;late;numeric;2;36
+364;Zavolzhskaia;Bashkortostan;Blohinskoe;54,59;56,24;r;;;2;2400;1700;SA1;21;late;numeric;2;4
+365;Zavolzhskaia;Bashkortostan;Shipovskoe;54,56;56,27;r;;;2;2400;1700;SA1;21;late;numeric;1;4
+366;Zavolzhskaia;Bashkortostan;Okhlebininskoe;54,3;56,28;r;;;2;2400;1700;SA1;21;late;numeric;2;6
+367;Zavolzhskaia;Bashkortostan;Shipovskoe;54,57;56,28;r;;;2;2400;1700;SA1;21;late;numeric;1;1
+368;Zavolzhskaia;Bashkortostan;Okhlebininskoe II;54,33;56,3;r;;;2;2400;1700;SA1;21;late;numeric;2;15
+369;Zavolzhskaia;Bashkortostan;Okhlebininskoe II;54,32;56,31;r;;;2;2400;1700;SA1;21;late;numeric;1;1
+370;Zavolzhskaia;Samarskaia;Zadel`naia Gora;53,36;49,3;r;;;2;2600;2400;SA1;21;late;numeric;1;6
+371;Zavolzhskaia;Bashkortostan;Biktimirovskoe;55,2;55,54;r;;;2;2600;2400;SA1;21;late;numeric;1;21
+372;Zavolzhskaia;Bashkortostan;Biktimirovskoe;55,18;55,55;r;;;2;2600;2400;SA1;21;late;numeric;4;16
+373;Zavolzhskaia;Bashkortostan;Tra-Tau (Bachki-Tau);55,51;54,02;r;;;2;2400;1300;SA1-2;22;late;numeric;4;35
+374;Zavolzhskaia;Tatarstan;Bolgarskoe (gosudarstvo);54,98;49,02;s2;;;2;1000;764;SA2;23;late;numeric;3;13
+375;Zavolzhskaia;Tatarstan;Tankeevskoe;54,82;49,12;s2;;M Alces;2;1000;764;SA2;23;late;numeric;2;18
+376;Zavolzhskaia;Samarskaia;Muromskii` gorodok;53,34;49,36;s2;;;2;1000;764;SA2;23;late;numeric;5;48
+377;Zavolzhskaia;Tatarstan;Biliarskoe;54,99;50,38;s2;;;2;1000;764;SA2;23;late;numeric;4;14
+378;Zavolzhskaia;Tatarstan;Dzhuke-Tau;55,38;50,67;s2;;;2;1000;764;SA2;23;late;numeric;1;1
+379;Zavolzhskaia;Bashkortostan;Kara-Iakupovskoe;54,33;55,28;s2;;;2;1250;1100;SA2;23;late;numeric;1;4
+380;Zavolzhskaia;Bashkortostan;Chukraclinskoe;54,34;55,3;s2;;;2;1250;1100;SA2;23;late;numeric;1;2
+381;Zavolzhskaia;Bashkortostan;Tapty`kovskoe;54,36;55,46;s2;;;2;1250;1100;SA2;23;late;numeric;2;15
+382;Zavolzhskaia;Samarskaia;Sevriukaevskoe II;53,1;49,29;s1;;;2;1300;1100;SA2;23;late;numeric;2;5
+383;Zavolzhskaia;Samarskaia;Maloriazanskoe VII;53,23;49,32;s1;;;2;1300;1000;SA2;23;late;numeric;4;18
+384;Zavolzhskaia;Samarskaia;Vlast` Truda;53,48;49,99;s1;;;2;1300;1000;SA2;23;late;numeric;2;10
+385;Zavolzhskaia;Tatarstan;Ostolopovskoe;55,36;50,27;s2;;;2;1300;700;SA2;23;late;numeric;1;6
+386;Zavolzhskaia;Samarskaia;Zhigulevsk I;53,44;49,5;s1;;;2;1400;1200;SA2;23;late;numeric;2;5
+387;Zavolzhskaia;Samarskaia;Karlinskoe;53,25;50,08;s1;;M Alces;2;1400;1300;SA2;23;late;numeric;4;30
+388;Zavolzhskaia;Samarskaia;Karmalinskoe;53,2;49,51;s1;;;2;1500;1400;SA2;23;late;numeric;3;3
+389;Zavolzhskaia;Bashkortostan;Ulukulevskoe;54,27;56,2;s1;;;2;1500;1200;SA2;23;late;numeric;1;3
+390;Zavolzhskaia;Ul`ianovskaia;Staromai`nskoe;54,36;48,57;s1;;M Alces;2;1600;1400;SA2;23;late;numeric;3;116
+391;Zavolzhskaia;Ul`ianovskaia;Chertov Gorodok;54,49;48,83;s1;;;2;1600;800;SA2;23;late;numeric;1;2
+392;Zavolzhskaia;Tatarstan;Baly`mer;54,856;48,96;s1;;;2;1600;1300;SA2;23;late;numeric;4;14
+393;Zavolzhskaia;Tatarstan;Shcherbet` I;54,99;49,33;s1;;;2;1600;1300;SA2;23;late;numeric;2;11
+394;Zavolzhskaia;Samarskaia;Muromskoe;53,33;49,41;s1;;;2;1600;1300;SA2;23;late;numeric;1;4
+395;Zavolzhskaia;Samarskaia;Osh-Pando-Ner` II;53,25;49,85;s1;;;2;1600;1300;SA2;23;late;numeric;3;3
+396;Zavolzhskaia;Samarskaia;Novinkovskoe V;53,25;49,91;s1;;;2;1600;1300;SA2;23;late;numeric;1;2
+397;Zavolzhskaia;Samarskaia;Vy`polzovskoe;53,23;50,11;s1;;;2;1600;1300;SA2;23;late;numeric;2;23
+398;Zavolzhskaia;Samarskaia;Podgory` I;53,31;50,11;s2;;;2;1600;900;SA2;23;late;numeric;1;7
+399;Zavolzhskaia;Samarskaia;Podgory` V;53,32;50,12;s2;;;2;1600;900;SA2;23;late;numeric;1;7
+400;Zavolzhskaia;Samarskaia;Krasny`i` pahar`;53,33;50,4;s1;;;2;1600;1300;SA2;23;late;numeric;1;1
+401;Zavolzhskaia;Samarskaia;Proletarskoe;54,54;51,04;s1;;;2;1600;1300;SA2;23;late;numeric;4;53
+402;Zavolzhskaia;Bashkortostan;Novo-Iantuzovskoe;55,51;55,26;s1;;;2;1600;1300;SA2;23;late;numeric;1;1
+403;Zavolzhskaia;Bashkortostan;Imendiashevskoe;54,09;56,44;s1;;;2;1600;1200;SA2;23;late;numeric;4;15
+404;Zavolzhskaia;Bashkortostan;Iumakaevskoe;55,56;55,32;r;;;2;1700;1600;SA2;23;late;numeric;2;8
+405;Zavolzhskaia;Samarskaia;Mezhdurechenskoe;53,24;49,15;s2;;;2;1000;609;SA2-3;24;late;numeric;1;2
+406;Zavolzhskaia;Tatarstan;Bolgarskoe (rannie bulgary`);54,98;49,02;s2;;;2;1400;200;SA2-3;24;late;numeric;3;7
+407;Zavolzhskaia;Samarskaia;Shigony`;53,4;48,68;sloi` russkoi` derevni;;;2;350;200;SA3;25;late;numeric;2;2
+408;Zavolzhskaia;Samarskaia;Gubinskoe I;53,31;48,72;s2;;;2;350;100;SA3;25;late;numeric;1;2
+409;Zavolzhskaia;Samarskaia;Rozhdestveno;53,23;50,06;s2;;;2;350;200;SA3;25;late;numeric;1;2
+410;Zavolzhskaia;Tatarstan;Toretckoe;55,03;50,38;s2;;;2;600;500;SA3;25;late;numeric;1;8
+411;Zavolzhskaia;Samarskaia;Maloriazanskoe II;53,23;49,32;s2;;;2;730;650;SA3;25;late;numeric;1;3
+412;Zavolzhskaia;Samarskaia;Berezovskoe;53,39;49,22;s2;;;2;764;609;SA3;25;late;numeric;2;8
+413;Zavolzhskaia;Bashkortostan;Ufa II;54,75;56;s2;;;2;764;609;SA3;25;late;numeric;5;75
+414;Zavolzhskaia;Samarskaia;Muranskoe;53,32;48,81;s2;;;2;800;600;SA3;25;late;numeric;1;2
+415;Mesiagutovskaia;Bashkortostan;Sredniaia Oka;56,06;58,22;e`(2);;;1;5300;4650;AT3;5;middle;numeric;1;3
+416;Mesiagutovskaia;Bashkortostan;Iukalikulevo;55,19;58,25;b3;;m Capreolus;2;3200;2800;SB3;13;middle;numeric;4;700
+417;Tobol`skaia;Cheliabinskaia;Krasnokamenka;54,35;60,15;ne`;;m Capreolus;1;6095;6095;AT2;3;middle;numeric;3;28
+418;Tobol`skaia;Cheliabinskaia;Krasnosel`skaia;54,59;61,22;ne`;;;1;7000;5000;AT1-3;6;middle;numeric;3;17
+419;Tobol`skaia;Cheliabinskaia;Shibaevo 1;54,93;61,64;b3;;;2;3400;3200;SB2;11;middle;numeric;1;1
+420;Tobol`skaia;Kurganskaia;Kipel`;55,278;64,524;b3;;;2;3500;3200;SB2;11;middle;numeric;1;1
+421;Tobol`skaia;Tiumenskaia;Ol`hovka;56,41;65,19;b3;;;2;3500;3100;SB2;11;middle;numeric;2;41
+422;Tobol`skaia;Cheliabinskaia;Kambulat I, II;54,85;60,56;b3;;;2;3600;3100;SB2;11;middle;numeric;2;2
+423;Tobol`skaia;Cheliabinskaia;Novo-Burino;55,98;61,65;b3;;;2;3600;3200;SB2;11;middle;numeric;2;6
+424;Tobol`skaia;Kurganskaia;Sukhrino 3;56,13;63,32;b;;;2;3600;3100;SB2;11;middle;numeric;3;11
+425;Tobol`skaia;Kurganskaia;Nosilovskoe;56,06666667;63,81666667;b3;;;2;3600;3200;SB2;11;middle;numeric;3;6
+426;Tobol`skaia;Kurganskaia;Iazevo I;54,88;64,92;b3;;;2;3600;3200;SB2;11;middle;numeric;2;32
+427;Tobol`skaia;Cheliabinskaia;Verkhniaia Sanarka;54,13;60,32;b23;;;2;3700;3200;SB2;11;middle;numeric;6;38
+428;Tobol`skaia;Tiumenskaia;Novo-Shadrino 7;56,25;66,05;b3;;M Alces;2;3300;2700;SB2-3;12;middle;numeric;5;624
+429;Tobol`skaia;Cheliabinskaia;Berezki V;55,26;60,23;b23;;;2;3500;2600;SB2-3;12;middle;numeric;2;171
+430;Tobol`skaia;Kurganskaia;Zamaraevskoe;56,1;63,18;b3;;;2;3500;2600;SB2-3;12;middle;numeric;3;7
+431;Tobol`skaia;Cheliabinskaia;Mochishche;55,68;61,3;b3;;M Alces;2;3700;2700;SB2-3;12;middle;numeric;2;16
+432;Tobol`skaia;Tiumenskaia;Krasnogorskoe;56,5;65,57;b3;;M Alces;2;2900;2700;SB3;13;middle;numeric;2;47
+433;Tobol`skaia;Cheliabinskaia;Maly`i` Vishnevy`i` I;55,24;60,22;r;;m Capreolus;2;2700;2391;SB3-SA1;15;middle-late;numeric;3;496
+434;Tobol`skaia;Cheliabinskaia;Berezki Vv;55,26;60,23;r;;m Capreolus;2;2700;2200;SB3-SA1;15;middle-late;numeric;3;380
+435;Tobol`skaia;Tiumenskaia;Rafailovskoe;56,43;65,25;r;;M Alces;2;2700;1500;SB3-SA1;15;middle-late;numeric;5;200
+436;Tobol`skaia;Cheliabinskaia;Maly`i` Leepovy`i` IX;55,39;60,39;b3r;;;2;3300;2000;SB3-SA1;15;middle-late;numeric;1;9
+437;Tobol`skaia;Cheliabinskaia;Berezki II;55,24;60,2;b23r;;;2;3500;2200;SB2-SA1;17;middle-late;numeric;2;7
+438;Tobol`skaia;Tiumenskaia;Verkhne-Ingal`skii` Borok-2;56,45;65,8;b3r;;;2;4000;1500;SB2-SA2;18;middle-late;numeric;2;16
+439;Tobol`skaia;Kurganskaia;Rechkinskoe I;55,91666667;65,63333333;r;;;2;2100;1900;SA1;21;late;numeric;2;6
+440;Tobol`skaia;Kurganskaia;Pavlinovo;56,2;64,6;r;;m Capreolus;2;2400;1900;SA1;21;late;numeric;2;34
+441;Tobol`skaia;Cheliabinskaia;Berezki Va;55,25;60,23;r;;;2;2500;2000;SA1;21;late;numeric;2;17
+442;Tobol`skaia;Kurganskaia;Gorohovskoe (Chudaki);55,27;64,63;r;;;2;2500;2100;SA1;21;late;numeric;2;10
+443;Tobol`skaia;Kurganskaia;Vorob`evskoe;56,11666667;63,45;r;;;2;2600;2100;SA1;21;late;numeric;2;4
+444;Tobol`skaia;Kurganskaia;Ust`-Tersiukskoe;56,32;64,86;;;;2;1100;500;SA2-3;24;late;numeric;3;176
+445;Tobol`skaia;Tiumenskaia;Kolovskoe;56,5;65,91;;;;2;1700;700;SA2-3;24;late;numeric;2;21
+446;Ishimskaia;Tiumenskaia;Mergen` 6;56,06666667;69,33333333;ne`;;M Alces;1;7321;6870;AT1;1;middle;numeric;6;191
+447;Ishimskaia;Tiumenskaia;Balandino;55,48;69,33;e`;;;1;5000;4750;AT3;5;middle;numeric;3;12
+448;Ishimskaia;Omskaia;Chernoozer`e 3;55,74;73,98;e`b1;;;1-2;4250;3500;SB1-2;10;middle;numeric;1;5
+449;Ishimskaia;Omskaia;Chernoozer`e 4;55,74;73,98;b1-3;;;1-2;4250;3500;SB1-2;10;middle;numeric;1;8
+450;Ishimskaia;Omskaia;Chernoozer`e 6;55,74;73,98;b1-3;;M Alces;1-2;4250;3500;SB1-2;10;middle;numeric;4;55
+451;Ishimskaia;Omskaia;Inberen` 10;55,73;74,04;b1;;M Alces;1-2;4250;3500;SB1-2;10;middle;numeric;3;60
+452;Ishimskaia;Omskaia;Kalugino I;56,05;71,86;b3;;;2;3400;3200;SB2;11;middle;numeric;2;17
+453;Ishimskaia;Omskaia;Chernoozer`e 1;55,74;73,98;b3;;;2;3500;3000;SB2;11;middle;numeric;1;3
+454;Ishimskaia;Kurganskaia;Zolotoe 1;55,05;65,85;b3;;;2;3600;3200;SB2;11;middle;numeric;1;4
+455;Ishimskaia;Kurganskaia;Bochantcevo 1;56,03;65,92;b3;;;2;3600;3100;SB2;11;middle;numeric;2;10
+456;Ishimskaia;Tiumenskaia;Uzlovskoe;56,1;70,22;b3;;M Alces;2;3600;3200;S¬2;11;middle;numeric;3;51
+457;Ishimskaia;Kurganskaia;Kamy`shnoe I;55,4;66,24;b3;;;2;3650;3100;SB2;11;middle;numeric;1;6
+458;Ishimskaia;Omskaia;Krasnaia gorka;55,117;73,13;nbr;;;2;3700;3200;SB2;11;middle;numeric;3;31
+459;Ishimskaia;Kurganskaia;Kamy`shnoe 2;55,4;66,3;b3;;;2;3810;3420;SB2;11;middle;numeric;1;6
+460;Ishimskaia;Omskaia;Sarahnin II;56;71,96;b3;;;2;4250;3500;SB2;11;middle;numeric;2;45
+461;Ishimskaia;Kurganskaia;Alabuga I;54,33;65,02;b23;;;2;3700;2700;SB2-3;12;middle;numeric;2;6
+462;Ishimskaia;Tiumenskaia;Marai` 4;55,61;69,33;r;;;2;2700;2400;SB3;13;middle;numeric;1;19
+463;Ishimskaia;Omskaia;Inberen` 6;55,73;74,06;r;;m Capreolus;2;2800;2600;SB3;13;middle;numeric;3;327
+464;Ishimskaia;Omskaia;Inberen` 7;55,73;74,05;r;;;2;2900;2600;SB3;13;middle;numeric;3;27
+465;Ishimskaia;Omskaia;Inberen` 5;55,73;74,05;b3r;;m Capreolus;2;2950;2700;SB3;13;middle;numeric;3;95
+466;Ishimskaia;Omskaia;Sibirskaia Sargatka;55,634;73,698;b3;;M Alces;2;3300;2700;SB3;13;middle;numeric;4;100
+467;Ishimskaia;Omskaia;Chernoozer`e 8;55,74;73,98;b3;;;2;3300;2700;SB3;13;middle;numeric;1;1
+468;Ishimskaia;Kazakhstan;Ak-Tau;55,02;69,08;b3;;;2;2700;2100;SB3-SA1;15;middle-late;numeric;3;9
+469;Ishimskaia;Omskaia;Inberen` 4;55,73;74,04;b13r;;;2;4250;1500;SB1-SA2;20;middle-late;numeric;1;1
+470;Ishimskaia;Kurganskaia;Baitovskoe I;55,83;65,72;r;;;2;2600;2500;SA1;21;late;numeric;2;7
+471;Ishimskaia;Omskaia;Speranskoe;55,718;73,827;r;;;2;2600;2100;SA1;21;late;numeric;6;689
+472;Ishimskaia;Omskaia;Borovianka 22;55,73;74,29;s;;;2;2600;2100;SA1;21;late;numeric;1;4
+473;Ishimskaia;Omskaia;Gornostalevskoe;55,091;72,056;s;;M Alces;2;1500;1300;SA2;23;late;numeric;1;59
+474;Ishimskaia;Tiumenskaia;Loginovskoe;56,21;70,18;s2;;m Capreolus;2;500;800;SA3;25;late;numeric;2;28
+475;Ishimskaia;Tiumenskaia;Kuchum-Gora;55,9;69,5;s2;;;2;700;500;SA3;25;late;numeric;2;336
+476;Barabinskaia;Novosibirskaia;Baraba;55,67;76,8;b1-2;;;1-2;4250;3500;SB1-2;10;middle;numeric;2;31
+477;Barabinskaia;Novosibirskaia;Baraba;54,5;78,8;b;;;1-2;4250;3500;SB1-2;10;middle;numeric;3;182
+478;Barabinskaia;Novosibirskaia;Baraba;54,5;78,8;b;;;1-2;4250;3500;SB1-2;10;middle;numeric;2;8
+479;Barabinskaia;Novosibirskaia;Baraba;54,5;78,8;b3r;;;2;2800;2800;SB3;13;middle;numeric;2;19
+480;Barabinskaia;Novosibirskaia;Om` pozdneirmen.;55,25;77,52;b3;;;2;2900;2700;SB3;13;middle;numeric;3;54
+481;Barabinskaia;Omskaia;Novo-Troitckoe;55,27;73,16;b3r;;m Capreolus;2;2950;2700;SB3;13;middle;numeric;6;2685
+482;Barabinskaia;Novosibirskaia;Om` irmen.;55,495;77,793;b3;;M Alces;2;3300;2700;SB3;13;middle;numeric;5;52
+483;Barabinskaia;Novosibirskaia;Baraba;54,5;78,8;b3;;M Alces;2;3300;2700;SB3;13;middle;numeric;1;97
+484;Barabinskaia;Novosibirskaia;Chicha 1;54,745;78,58;b-1-3rs1-2;;M Alces;2;3000;1000;SB3-SA2;16;middle-late;numeric;4;1765
+485;Barabinskaia;Novosibirskaia;Turunovka 3;55,641;77,033;r;;;2;2000;1500;SA1;21;late;numeric;1;14
+486;Barabinskaia;Novosibirskaia;Om` sargat.;55,25;77,52;r;;M Alces;2;2700;1500;SA1-2;22;late;numeric;3;100
+487;Barabinskaia;Novosibirskaia;Voznesenskoe I gorodishche;55,61;76,38;s2;;;2;500;300;SA3;25;late;numeric;2;5
+488;Barabinskaia;Novosibirskaia;Bol`shoi` Chulankul;55,67;76,67;s2;;;2;700;500;SA3;25;late;numeric;1;2
+489;Obskaia;Altai`skii` krai`;Kostyonkova Izbushka neol.;52,716;84,736;n;;;1;5350;5000;AT3;5;middle;numeric;1;1
+490;Obskaia;Altai`skii` krai`;Beryozovaia Luka;52,4;82,6;b;;;1-2;4300;3700;SB1-2;10;middle;numeric;4;19
+491;Obskaia;Novosibirskaia;Krohalevka I;55,14;82,41;b2;;M Alces;2;3500;3400;SB2;11;middle;numeric;1;73
+492;Obskaia;Altai`skii` krai`;Zharkovo 3 andron.;52,492;82,779;b;;;2;3600;2800;SB2;11;middle;numeric;1;1
+493;Obskaia;Novosibirskaia;Kargat 6;55,194;80,283;b3;;;2;3600;2700;SB2-3;12;middle;numeric;1;1
+494;Obskaia;Altai`skii` krai`;Zakovriashino 1;53,895;81,194;b3;;;2;3000;2900;SB3;13;middle;numeric;3;10
+495;Obskaia;Tomskaia;Elovskoe;55,946;83,73;b3;;M Alces;2;3100;2600;SB3;13;middle;numeric;5;391
+496;Obskaia;Novosibirskaia;Milovanovo;54,03;81,55;b3;;;2;3300;2700;SB3;13;middle;numeric;1;1
+497;Obskaia;Novosibirskaia;Milovanovo 3;54,03;81,55;b3;;;2;3300;2700;SB3;13;middle;numeric;3;34
+498;Obskaia;Altai`skii` krai`;By`kovo 3;53,533;81,928;b3;;;2;3300;2700;SB3;13;middle;numeric;1;12
+499;Obskaia;Novosibirskaia;Irmen`;54,58;82,233;b3;;;2;3300;2700;SB3;13;middle;numeric;3;5
+500;Obskaia;Novosibirskaia;Krotovo 18;53,544;82,464;b3;;;2;3300;2700;SB3;13;middle;numeric;1;1
+501;Obskaia;Altai`skii` krai`;Zharkovo 3 sargarin.;52,492;82,779;b3;;;2;3300;2700;SB3;13;middle;numeric;4;20
+502;Obskaia;Altai`skii` krai`;Rechkunovo 4;53,25;83,2;b3;;;2;3300;2800;SB3;13;middle;numeric;3;10
+503;Obskaia;Altai`skii` krai`;Rechkunovo 3;53,496;83,339;b3;;M Alces;2;3300;2700;SB3;13;middle;numeric;5;42
+504;Obskaia;Altai`skii` krai`;Firsovo 18;53,32;83,96;b3;;;2;3300;2700;SB3;13;middle;numeric;4;289
+505;Obskaia;Altai`skii` krai`;Firsovo 4;53,32;83,96;b3;;;2;3300;2700;SB3;13;middle;numeric;1;6
+506;Obskaia;Altai`skii` krai`;Korchazhka 5;52,712;84,717;b3;;M Alces;2;3300;2900;SB3;13;middle;numeric;1;42
+507;Obskaia;Altai`skii` krai`;Suslovo 1;52,609;81,639;b1-3;;;2;4500;2500;SB1-3;14;middle;numeric;4;21
+508;Obskaia;Novosibirskaia;Ordy`nskoe 19;54,367;81,899;b1-3;;;2;4500;2500;SB1-3;14;middle;binary;1;1
+509;Obskaia;Novosibirskaia;Zav`ialovo 5;54,5;82,45;b;;M Alces;2;4500;2500;SB1-3;14;middle;numeric;2;133
+510;Obskaia;Novosibirskaia;Krasny`i` Iar;55,28;83,06;b;;;2;4500;2500;SB1-3;14;middle;numeric;2;9
+511;Obskaia;Altai`skii` krai`;My`l`nikovo;53,46;83,77;b;;;2;4500;2500;SB1-3;14;middle;numeric;4;280
+512;Obskaia;Altai`skii` krai`;Kostyonkova Izbushka bronz.;52,716;84,736;b;;;2;4500;2500;SB1-3;14;middle;numeric;3;57
+513;Obskaia;Altai`skii` krai`;Turina Gora;53,399;83,653;b3rs1;;m Capreolus;2;3000;1200;SB3-SA2;16;middle-late;numeric;2;17
+514;Obskaia;Novosibirskaia;Mogil`nitskoe rzhv;55,83;84;r;;;2;2300;1400;SA1;21;late;numeric;3;22
+515;Obskaia;Novosibirskaia;Ivanovka 4;54,203;81,706;r;;;2;2500;1500;SA1;21;late;numeric;1;5
+516;Obskaia;Novosibirskaia;Dubrovinskii` Borok 3;55,516;83,266;r;;;2;2500;1500;SA1;21;late;numeric;1;12
+517;Obskaia;Novosibirskaia;Kargat 4;55,194;80,283;r;;;2;2600;2100;SA1;21;late;numeric;1;3
+518;Obskaia;Altai`skii` krai`;Maly`i` Gon`binskii` kordon;53,415;83,583;r;;;2;2600;2100;SA1;21;late;numeric;3;76
+519;Obskaia;Novosibirskaia;Oiashkinskii` arkheologicheskii` mikrorai`on-27 (OAM-27);55,713;83,733;r;;;2;2600;1500;SA1;21;late;numeric;1;3
+520;Obskaia;Altai`skii` krai`;Firsovo 10;53,32;83,96;r;;;2;2600;2100;SA1;21;late;numeric;2;30
+521;Obskaia;Altai`skii` krai`;Firsovo 17;53,32;83,96;r;;;2;2600;2200;SA1;21;late;numeric;4;103
+522;Obskaia;Altai`skii` krai`;Tochil`noe;52,16;85,05;r;;;2;2600;2200;SA1;21;late;numeric;3;44
+523;Obskaia;Altai`skii` krai`;Tochil`noe 10;52,16;85,05;r;;;2;2600;2100;SA1;21;late;numeric;2;11
+524;Obskaia;Altai`skii` krai`;Tochil`noe 3;52,16;85,05;r;;m Capreolus;2;2600;2100;SA1;21;late;numeric;4;41
+525;Obskaia;Altai`skii` krai`;Tochil`noe 8;52,16;85,05;r;;;2;2600;2100;SA1;21;late;numeric;4;71
+526;Obskaia;Novosibirskaia;Kamenny`i` My`s;55;83;r;;;2;2700;2000;SA1;21;late;binary;2;2
+527;Obskaia;Altai`skii` krai`;Kostyonkova Izbushka rzhv;52,716;84,736;r;;M Alces;2;2300;1400;SA1-2;22;late;numeric;3;98
+528;Obskaia;Novosibirskaia;Milovanovo 6;54,03;81,55;r;;;2;2500;1500;SA1-2;22;late;numeric;1;1
+529;Obskaia;Novosibirskaia;Starobibeevo 4;55,71;83,702;s2;;;2;800;800;SA2;23;late;numeric;1;1
+530;Obskaia;Novosibirskaia;Sedova Zaimka;55,365;82,848;c2;;;2;1000;700;SA2;23;late;numeric;1;33
+531;Obskaia;Novosibirskaia;Kamenushka 1;54,84;83,23;s2;;m Capreolus;2;1000;700;SA2;23;late;numeric;2;50
+532;Obskaia;Novosibirskaia;Irinskii` Borik;55,83;84;s;;;2;1550;1550;SA2;23;late;numeric;1;5
+533;Obskaia;Altai`skii` krai`;Kurlap;52,64;86,35;c1;;;2;1800;1500;SA2;23;late;numeric;5;27
+534;Obskaia;Novosibirskaia;Mogil`nitskoe srednev.;55,83333333;84;s;;M Alces;2;1500;300;SA2-3;24;late;numeric;3;254
+535;Obskaia;Altai`skii` krai`;Kostyonkova Izbushka srednev.;52,716;84,736;s;;;2;1500;300;SA2-3;24;late;numeric;2;26
+536;Obskaia;Novosibirskaia;Cherny`i` Borok 20;53,949;82,338;s2;;m Capreolus;2;500;300;SA3;25;late;numeric;3;79
+537;Obskaia;Novosibirskaia;Oiashkinskii` arkheologicheskii` mikrorai`on-32 (OAM-32);55,713;83,733;s2;;;2;500;500;SA3;25;late;numeric;2;18
+538;Obskaia;Novosibirskaia;Ordy`nskoe 6;54,367;81,899;s2;;M Alces;2;600;400;SA3;25;late;numeric;3;105
+539;Obskaia;Novosibirskaia;Nizhnii` Suzun 7;53,72;82,146;s2;;M Alces;2;600;400;SA3;25;late;numeric;2;211
+540;Obskaia;Novosibirskaia;Shcheglanushka;53,95;83,23333333;c2;;;2;600;400;SA3;25;late;numeric;3;16
+541;Obskaia;Novosibirskaia;Krohalyovka-Sokolovo-3;55,15;82,54;s2;;;2;800;500;SA3;25;late;binary;1;1
+542;Obskaia;Novosibirskaia;Piaty`i` Kordon 1-3;55,16;82,55;s2;;;2;800;500;SA3;25;late;binary;2;2
+543;Minusinskaia;Krasnoiarskii` krai`;Sy`da;54,33333333;91,58333333;n;;;1;4800;4500;AT3;5;middle;binary;1;1
+544;Minusinskaia;Krasnoiarskii` krai`;Parnaia;55,31666667;91,18333333;nb;;;1-2;4800;3300;AT3-SB2;8;middle;binary;1;1
+545;Minusinskaia;Krasnoiarskii` krai`;Beloiarsk;54,48333333;91,68333333;n2b1;;;1-2;4400;3200;SB1-2;10;middle;binary;1;1
+546;Minusinskaia;Krasnoiarskii` krai`;Abakanskaia Uprava I;53,71666667;91,4;r;;;2;2600;2500;SB3;13;middle;binary;1;1
+547;Minusinskaia;Krasnoiarskii` krai`;Osnashchennoe II;53,08333333;91,45;rb3;;;2;2600;2500;SB3;13;middle;binary;1;1
+548;Minusinskaia;Krasnoiarskii` krai`;Kochergino;53,71666667;92,6;rb3;;;2;2600;2500;SB3;13;middle;binary;1;1
+549;Minusinskaia;Krasnoiarskii` krai`;Volchii` Log I;55,71666667;90,85;rb3;;;2;2700;2600;SB3;13;middle;binary;1;1
+550;Minusinskaia;Krasnoiarskii` krai`;Tagarskii` ostrov III;53,56666667;91,76666667;rb;;;2;2700;2600;SB3;13;middle;binary;1;1
+551;Minusinskaia;Krasnoiarskii` krai`;Sarahgashenskoe Ozero;55,71666667;90,85;rb3;;;2;2400;2300;SA1;21;late;binary;2;2
+552;Minusinskaia;Krasnoiarskii` krai`;Novoselovo II;54,98333333;90,91666667;rb;;;2;2600;2500;SA1;21;late;binary;1;1
+553;Balagansko-Irkutskaia;Irkutskaia;Serovo;54,89;102,99;n;;;1;7000;4600;AT1-3;6;middle;numeric;5;177
+554;Balagansko-Irkutskaia;Irkutskaia;Riutino;54,48;103,03;n;;m Capreolus;1;7000;4600;AT1-3;6;middle;numeric;3;169
+555;Balagansko-Irkutskaia;Irkutskaia;Ust`-Belaia;52,85;103,37;n;;m Capreolus;1;7000;4600;AT1-3;6;middle;numeric;3;63
+556;Balagansko-Irkutskaia;Irkutskaia;Lenkovka n;53,02;103,4;n;;;1;7000;4600;AT1-3;6;middle;numeric;3;59
+557;Balagansko-Irkutskaia;Irkutskaia;Kazach`e;53,33;103,43;n;;m Capreolus;1;7000;4600;AT1-3;6;middle;numeric;2;23
+558;Balagansko-Irkutskaia;Irkutskaia;Semenovka n;52,95;103,82;n;;m Capreolus;1;7000;4600;AT1-3;6;middle;numeric;3;181
+559;Balagansko-Irkutskaia;Irkutskaia;Gorely`i` Les;52,94;103,84;n;;;1;7000;4600;AT1-3;6;middle;binary;2;2
+560;Balagansko-Irkutskaia;Irkutskaia;Lenkovka rb;52,99;103,5;rb;;m Capreolus;2;4600;2000;SB1-SA1;19;middle-late;numeric;3;89
+561;Balagansko-Irkutskaia;Irkutskaia;Balaganskoe s2;54,01;102,06;s1;;m Capreolus;2;1100;800;SA2;23;late;numeric;2;440
+562;Balagansko-Irkutskaia;Irkutskaia;Manhai`;53,106;104,392;s2;;m Capreolus;2;1250;750;SA2;23;late;numeric;5;1376
+563;Balagansko-Irkutskaia;Irkutskaia;Balaganskoe s1;54,01;102,06;s1;;m Capreolus;2;1400;1100;SA2;23;late;numeric;4;874
+564;Balagansko-Irkutskaia;Irkutskaia;Totok;53,81;102,98;s2;;m Capreolus;2;940;940;SA3;25;late;numeric;2;409
+565;Balagansko-Irkutskaia;Irkutskaia;Leesiha;52,25;104,32;s12;;;2;2500;300;SA1-3;26;late;binary;3;3
+566;Balagansko-Irkutskaia;Irkutskaia;Lenkovka nrb;53;103,6;rbn;;m Capreolus;1-2;7000;2000;AT1-SA1;27;middle-late;numeric;3;89
+567;Balagansko-Irkutskaia;Irkutskaia;Semenovka n+;52,93;103,8;n+;;m Capreolus;1-2;7000;2000;AT1-SA1;27;middle-late;numeric;2;335
+568;Minusinskaia;Krasnoiarskii` krai`;Chebaki;54,55;89,22;b3;;m Capreolus;2;3250;2750;SB3;11;middle;numeric;5;577
+569;Kanskaia;Krasnoiarskii` krai`;Kazachka;56,07;95,51;br;;;1-2;3500;2000;SB2-SA1;17;middle-late;numeric;3;47
+570;Kanskaia;Krasnoiarskii` krai`;Kazachka;56,07;95,51;n;;m Capreolus;1;8000;6000;AT1-2;2;middle;numeric;3;440
+571;Kanskaia;Krasnoiarskii` krai`;Kazachka;56,07;95,51;m;;m Capreolus;1;8300;6830;AT1;1;middle;numeric;4;4205
+572;Minusinskaia;Krasnoiarskii` krai`;Chebaki;54,55;89,22;b3;;m Capreolus;2;3250;2750;SB3;11;middle;numeric;5;577
